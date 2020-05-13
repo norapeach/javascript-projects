@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+
+html {
+    background-color: #a6f0f0;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 0.95em;
+    line-height: 1.5em;
+    
+}
+h1 {
+    line-height: 2em;
+    max-width: 75%;
+    margin: auto;
+}
+
+main {
+    /* display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly; */
+    max-width: 80%;
+    margin: auto;
+}
+
+section {
+    margin: 0 .5em;
+}
